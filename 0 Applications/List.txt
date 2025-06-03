@@ -1,0 +1,13 @@
+AutoHotKey
+Autoruns
+Dimmer
+Local Send
+Mpv (Zhongfly)
+Notepad++
+Paint.net
+Python
+Revo Uninstaller
+Rufus
+ShareX
+VSCodium
+Zen Browser
